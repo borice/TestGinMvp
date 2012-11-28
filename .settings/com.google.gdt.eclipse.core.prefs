@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+jarsExcludedFromWebInfLib=/Users/capitanu/Projects/GWT/TestGinMvp/lib/gin-2.0.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/aopalliance.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/gin-mvp-1.1.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/guice-3.0.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/guice-assistedinject-3.0.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/javax.inject.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/smartgwt-skins.jar|/Users/capitanu/Projects/GWT/TestGinMvp/lib/smartgwt.jar
+warSrcDir=war
+warSrcDirIsOutput=true
